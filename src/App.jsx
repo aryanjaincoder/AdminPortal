@@ -15,7 +15,7 @@ import AuditLog from './pages/AuditLog';
 
 // Import CSS (assuming it exists now)
 import './App.css';
-import FaceRegistrationPage from './pages/faceRegistration';
+
 
 function App() {
   return (
